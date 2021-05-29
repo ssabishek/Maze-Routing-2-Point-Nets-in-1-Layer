@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1621508854 source:e:\practice\codeblocks\maze_router\main.cpp
+	<iostream>
+	<queue>
+	<stdio.h>
+	<vector>
+	<fstream>
+
