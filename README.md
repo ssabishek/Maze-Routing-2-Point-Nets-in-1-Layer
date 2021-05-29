@@ -1,0 +1,2 @@
+# Maze-Routing-2-Point-Nets-in-1-Layer
+Description: Finds the shortest path from Source-Cell to Destination-Cell through a maze on a grid of squares. Maze Router Algorithm: - 2 Fundamental Steps: 1)EXPAND: Breadth first search to find all paths from source cell to target cell. Expansion algorithm used is a variant of Dijkstra's Algorithm. 2)BACKTRACE: Trace shortest path back to source from the target cell.
